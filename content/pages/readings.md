@@ -35,7 +35,7 @@ Mindell, David A. _Between Human and Machine_. Baltimore, MD: Johns Hopkins Univ
 Momus. "[I Dance, Therefore I Am](http://archive.wired.com/culture/lifestyle/commentary/imomus/2005/12/69814?currentPage=all)." Wired News.
 
 Morville, Peter. _Ambient Findability_. Cambridge, MA: O'Reilly, 2005. ISBN: 9780596007652.  
-See Chapter 1 at the O'Reilly Web site. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://keithpaul.net/wp-content/uploads/ambient_findability.pdf))
+See Chapter 1 at the O'Reilly Web site. ([PDF](http://keithpaul.net/wp-content/uploads/ambient_findability.pdf))
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631877) Murray, Janet H. [_Hamlet on the Holodeck_](https://mitpress.mit.edu/9780262631877). Cambridge, MA: The MIT Press, 1998. ISBN: 9780262631877.
 
