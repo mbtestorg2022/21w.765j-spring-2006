@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 22ad0398-3119-dfdb-1f76-ee99cc154fbd
 resourcetype: Image
 title: mmo_diagram.jpg
 uid: 2f3b204b-48ef-69ac-b489-cf08ab0fa7b4
